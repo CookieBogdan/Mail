@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WPF" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Login" Type="System.String" Scope="User">
+      <Value Profile="(Default)">dlia26kino</Value>
+    </Setting>
+    <Setting Name="Password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">vpopkvlngjkllsns</Value>
+    </Setting>
+    <Setting Name="Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Victor Dubinin</Value>
+    </Setting>
+    <Setting Name="AddressesTo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">dlia24kino@yandex.ru dubinin.victor@123.ru dlia</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
